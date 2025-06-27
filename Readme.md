@@ -65,7 +65,13 @@ Create a comprehensive, interactive Power BI dashboard that provides **real-time
 - **Marketing Teams**: Analyze customer behavior & improve targeting  
 - **Product Teams**: Use satisfaction & model performance to guide product decisions  
 
----
+--
+## 📬 Contact
 
-## 📂 Project Structure
+**Aqsa Akram**  
+Data Analyst | AI Enthusiast | Power BI Developer  
+📍 Bahawalpur, Pakistan  
+📧 [aqsaakram00109@gmail.com]  
+
+
 
